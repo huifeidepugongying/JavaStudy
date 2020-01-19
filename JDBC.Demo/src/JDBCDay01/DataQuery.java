@@ -1,4 +1,4 @@
-package Day01;
+package JDBCDay01;
 import java.sql.*;
 public class DataQuery {
     public static void main(String[] args) {

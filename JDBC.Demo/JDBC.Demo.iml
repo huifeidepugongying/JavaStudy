@@ -8,5 +8,26 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="libs (2)" level="project" />
+    <orderEntry type="library" name="libs (3)" level="project" />
+    <orderEntry type="module-library">
+      <library name="libs">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/libs" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/libs" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="libs (2)">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/libs" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/libs" recursive="false" />
+      </library>
+    </orderEntry>
   </component>
 </module>
