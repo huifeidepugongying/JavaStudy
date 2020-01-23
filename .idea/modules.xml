@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Common.Libs/Common.Libs.iml" filepath="$PROJECT_DIR$/Common.Libs/Common.Libs.iml" />
       <module fileurl="file://$PROJECT_DIR$/JDBC.Demo/JDBC.Demo.iml" filepath="$PROJECT_DIR$/JDBC.Demo/JDBC.Demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaStudy.iml" filepath="$PROJECT_DIR$/JavaStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Web.ServletDemo/Web.ServletDemo.iml" filepath="$PROJECT_DIR$/Web.ServletDemo/Web.ServletDemo.iml" />
     </modules>
   </component>
 </project>
